@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{883029D5-2AA9-BB39-E3DC-C8AA14B512E8}") = "RPGMovement", "Assembly-CSharp.csproj", "{F0059BDA-CE56-B783-1D4A-23AA7195EEB5}"
+EndProject
+Project("{883029D5-2AA9-BB39-E3DC-C8AA14B512E8}") = "RPGMovement", "Assembly-CSharp-Editor.csproj", "{50EE6F9C-E8EF-78D4-9622-311DF2D300D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0059BDA-CE56-B783-1D4A-23AA7195EEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0059BDA-CE56-B783-1D4A-23AA7195EEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0059BDA-CE56-B783-1D4A-23AA7195EEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0059BDA-CE56-B783-1D4A-23AA7195EEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EE6F9C-E8EF-78D4-9622-311DF2D300D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EE6F9C-E8EF-78D4-9622-311DF2D300D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EE6F9C-E8EF-78D4-9622-311DF2D300D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EE6F9C-E8EF-78D4-9622-311DF2D300D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
