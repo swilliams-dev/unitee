@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGMovement", "RPGMovement.csproj", "{E4A0077E-7892-DDEE-CB98-3BD7F325F291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGMovement.Editor", "RPGMovement.Editor.csproj", "{A1BC2167-7AE9-7D48-8778-7A61153854ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A0077E-7892-DDEE-CB98-3BD7F325F291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A0077E-7892-DDEE-CB98-3BD7F325F291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A0077E-7892-DDEE-CB98-3BD7F325F291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A0077E-7892-DDEE-CB98-3BD7F325F291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BC2167-7AE9-7D48-8778-7A61153854ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BC2167-7AE9-7D48-8778-7A61153854ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BC2167-7AE9-7D48-8778-7A61153854ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BC2167-7AE9-7D48-8778-7A61153854ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

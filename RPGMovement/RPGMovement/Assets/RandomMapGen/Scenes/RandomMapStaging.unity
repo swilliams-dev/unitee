@@ -146,6 +146,9 @@ MonoBehaviour:
   tilePrefab: {fileID: 130468, guid: b7e373b522b554b2b9c21b7229a91eee, type: 2}
   tileSize: {x: 16, y: 16}
   islandTexture: {fileID: 2800000, guid: 6dda2095192964815b349ac505a5e664, type: 3}
+  playerPrefab: {fileID: 1047201278223812, guid: 51d708c2c93da6941b9e56f03fc8a025,
+    type: 2}
+  player: {fileID: 0}
   erodePercent: 0.5
   erodeIterations: 2
   treePercent: 0.3
@@ -167,48 +170,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1256665817
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4822654875427648, guid: 51d708c2c93da6941b9e56f03fc8a025, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 35.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4822654875427648, guid: 51d708c2c93da6941b9e56f03fc8a025, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: -128.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4822654875427648, guid: 51d708c2c93da6941b9e56f03fc8a025, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4822654875427648, guid: 51d708c2c93da6941b9e56f03fc8a025, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4822654875427648, guid: 51d708c2c93da6941b9e56f03fc8a025, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4822654875427648, guid: 51d708c2c93da6941b9e56f03fc8a025, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4822654875427648, guid: 51d708c2c93da6941b9e56f03fc8a025, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4822654875427648, guid: 51d708c2c93da6941b9e56f03fc8a025, type: 2}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 51d708c2c93da6941b9e56f03fc8a025, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &2006166429
 GameObject:
   m_ObjectHideFlags: 0

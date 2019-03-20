@@ -16,6 +16,13 @@ public class RandomMapTesterEditor : Editor {
 			}
 		}
 
-	}
+        if (GUILayout.Button("Create Player"))
+        {
+            if (Application.isPlaying)
+            {
+                script.CreatePlayer();
+            }
+        }
+    }
 
 }
